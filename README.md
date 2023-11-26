@@ -29,21 +29,9 @@
 
 <br>
 
-<h3 align="left">Achievements:</h3>
-
 ###
 
-<div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=sultankeles&theme=react"/>
-</div>
-
-###
-
-<br>
-
-###
-
-<h3 align="left">Follow Me</h3>
+<h3 align="left">Follow Me:</h3>
 
 ###
 
@@ -62,3 +50,15 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>-->
 </div>
+
+<br>
+
+<h3 align="left">Achievements:</h3>
+
+###
+
+<div align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=sultankeles&theme=react"/>
+</div>
+
+###
