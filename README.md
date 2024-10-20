@@ -7,7 +7,7 @@
 
 <b>💯 I am currently enhancing my skills as a Front-End Developer and a Back-End Developer⭐</b><br/><br/>
 <b>📚 I am presently engaged in the process of acquiring knowledge </b>⌛<br/><br/>
-<b>🎯 My goal for 2023 : To develop websites as a Full Stack Developer 🌍 <br/><br/>
+<b>🎯 My goal for 2024 : To develop websites as a Full Stack Developer 🌍 <br/><br/>
 <b>⚡ Fun fact : I love drawing 🎨 playing an instrument 🎶 learning a foreign language 🔮 <br/>
 
 
