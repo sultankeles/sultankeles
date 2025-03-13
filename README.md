@@ -5,10 +5,10 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=B152F2&size=20&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Developer.;I'm+a+Front-End+Developer.;I'm+a+Back-End+Developer." /></a>
 </p>
 
-<b>💯 I am currently enhancing my skills as a Front-End Developer and a Back-End Developer⭐</b><br/><br/>
-<b>📚 I am presently engaged in the process of acquiring knowledge </b>⌛<br/><br/>
-<b>🎯 My goal for 2024 : To develop websites as a Full Stack Developer 🌍 <br/><br/>
-<b>⚡ Fun fact : I love drawing 🎨 playing an instrument 🎶 learning a foreign language 🔮 <br/>
+<b>📚 I am currently pursuing an MSc in AI and Data Science at Bournemouth University.</b>⭐<br/><br/>
+<b>💯 I'm passionate about learning and constantly improving my skills.</b>⌛<br/><br/>
+<b>🎯 Goal for 2025: To create a groundbreaking project in the field of Artificial Intelligence! 🌍 <br/><br/>
+<b>⚡ Fun fact : I love drawing 🎨, playing musical instruments 🎶, and learning new languages 🔮 <br/>
 
 
 <picture>
