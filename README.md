@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 
 <p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=B152F2&size=20&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Developer.;I'm+a+Front-End+Developer.;I'm+a+Back-End+Developer." /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=B152F2&size=20&lines=Welcome+to+my+GitHub+profile!;I'm+an+AI+Engineer." /></a>
 </p>
 
 <b>🎓 MSc AI & Data Science @ Bournemouth University</b><br/><br/>
